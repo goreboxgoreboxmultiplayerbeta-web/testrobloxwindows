@@ -1,0 +1,6 @@
+mss>=10.0.0,<11
+Pillow>=11.0.0,<13
+requests>=2.32,<3
+pywin32>=308
+psutil>=6,<9
+pydirectinput>=1.0.4,<2
